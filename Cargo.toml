@@ -1,1 +1,5 @@
-
+[package]
+name = "gstplayer"
+version = "0.1.0"
+authors = ["loxsb <your_email@example.com>"]
+edition = "2024"
